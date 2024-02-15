@@ -6,6 +6,6 @@
 
 - 🔭 I’m currently working on React based projects
 - 🌱 I’m currently learning React
-- 😄 Pronouns: Co/der
+
   
 
